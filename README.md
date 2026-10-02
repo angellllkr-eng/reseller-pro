@@ -1,14 +1,11 @@
-# ResellerPro — legacy source
+# ResellerPro — Legacy Source
 
-**Product:** ResellerPro  
-**Canonical organization destination:** `Mind-Reply/resellerpro`  
 **Status:** LEGACY / SOURCE-FREEZE
 
-This repository is a migration/provenance source; ResellerPro maintains its canonical product root elsewhere.
+**Canonical engineering repository:** `angellllkr-eng/resellerpro-platform`
 
-Preserve useful historical features and migrate verified unique work into:
-https://github.com/Mind-Reply/resellerpro
+Do not start new work here. Preserve this repository only for provenance while unique material is reconciled into the canonical ResellerPro source.
 
-New ResellerPro development belongs in the canonical product root.
+**Retirement action:** archive through GitHub repository administration after reconciliation is verified.
 
-After reconciliation, archive this repository through GitHub administration.
+**Rule:** one product, one active repository.
